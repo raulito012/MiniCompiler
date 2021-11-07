@@ -1,0 +1,10 @@
+C:\Users\kevdc\source\repos\MeedCompy\bin\Debug\MeedCompy.exe.config
+C:\Users\kevdc\source\repos\MeedCompy\bin\Debug\MeedCompy.exe
+C:\Users\kevdc\source\repos\MeedCompy\bin\Debug\MeedCompy.pdb
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.Form1.resources
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.Properties.Resources.resources
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.csproj.GenerateResource.cache
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.csproj.CoreCompileInputs.cache
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.exe
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.pdb
+C:\Users\kevdc\source\repos\MeedCompy\obj\Debug\MeedCompy.csprojAssemblyReference.cache

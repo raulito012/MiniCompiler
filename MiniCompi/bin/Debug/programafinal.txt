@@ -1,0 +1,30 @@
+
+
+
+inicio {
+
+# n 0
+
+# num 3
+
+repetir ( n = 0 , n < 5 , n ++ : 
+
+si ( n == num ) hacer {
+
+escribir Y MIL VECES MÁS |
+?
+
+escribir TE AMO <3 |
+
+
+solo 
+
+};
+
+
+
+
+
+
+
+

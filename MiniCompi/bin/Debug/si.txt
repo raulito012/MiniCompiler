@@ -1,0 +1,27 @@
+
+
+inicio {
+
+
+# numero1 24
+
+si ( numero1 == 34 ) hacer { 
+
+
+} sino si ( numero1 == 4 ) hacer {     
+
+       // comentario ///
+
+}
+
+
+};
+
+
+
+
+
+
+
+
+
